@@ -1,6 +1,6 @@
 # Pearson
 
-This repository is a place where I will place all projects created using Pearson Books.
+Chapter One Java, Liang
 
 Branch: main
   File list:
